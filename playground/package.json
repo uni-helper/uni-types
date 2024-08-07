@@ -75,6 +75,6 @@
     "@uni-helper/uni-ui-types": "workspace:*",
     "typescript": "5.5.4",
     "vite": "^5.3.5",
-    "vue-tsc": "2.0.28"
+    "vue-tsc": "2.0.29"
   }
 }
